@@ -1,0 +1,17 @@
+============================================================
+SOUND EVENT DETECTION REPORT
+============================================================
+
+Total Events Detected: 2
+Average Confidence: 23.92%
+
+Time Range: 0.00s - 7.18s
+
+Events by Category:
+----------------------------------------
+  Gunshots: 2
+
+Events by Label:
+----------------------------------------
+  Explosion: 1
+  Gunshot, gunfire: 1

@@ -1,0 +1,26 @@
+# Core ML and Audio Processing
+torch>=2.0.0
+torchaudio>=2.0.0
+librosa>=0.10.0
+soundfile>=0.12.0
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Pre-trained Models
+transformers>=4.30.0
+timm>=0.9.0
+
+# Audio Analysis
+audioread>=3.0.0
+resampy>=0.4.2
+
+# API (if integrating with Flask)
+flask>=2.3.0
+flask-cors>=4.0.0
+
+# Utilities
+pandas>=2.0.0
+matplotlib>=3.7.0
+pydub>=0.25.0
+tensorflow>=2.15.0
+tensorflow-hub>=0.16.1

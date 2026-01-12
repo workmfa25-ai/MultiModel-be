@@ -1,0 +1,17 @@
+{
+  "file": "car-door-open-and-close-72752.mp3",
+  "timestamp": "2026-01-08T11:46:38.728230",
+  "summary": {
+    "total_events": 0,
+    "by_category": {},
+    "by_label": {},
+    "avg_confidence": 0.0,
+    "time_range": {
+      "start": null,
+      "end": null
+    },
+    "file": "car-door-open-and-close-72752.mp3",
+    "duration": 25.488
+  },
+  "detections": []
+}

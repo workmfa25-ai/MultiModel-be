@@ -1,0 +1,3 @@
+event_id,label,category,start_time,end_time,duration,confidence,window_center
+1,Explosion,gunshots,0.0,7.176,7.176,0.26383572816848755,3.588
+2,"Gunshot, gunfire",gunshots,0.0,7.176,7.176,0.2146112620830536,3.588

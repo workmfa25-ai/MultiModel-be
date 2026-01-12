@@ -1,0 +1,17 @@
+{
+  "file": "audio1.mp3",
+  "timestamp": "2026-01-08T12:12:24.509114",
+  "summary": {
+    "total_events": 0,
+    "by_category": {},
+    "by_label": {},
+    "avg_confidence": 0.0,
+    "time_range": {
+      "start": null,
+      "end": null
+    },
+    "file": "audio1.mp3",
+    "duration": 71.4480625
+  },
+  "detections": []
+}

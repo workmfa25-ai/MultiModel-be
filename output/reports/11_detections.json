@@ -1,0 +1,45 @@
+{
+  "file": "11.mp3",
+  "timestamp": "2026-01-08T12:23:08.876678",
+  "summary": {
+    "total_events": 2,
+    "by_category": {
+      "gunshots": 2
+    },
+    "by_label": {
+      "Explosion": 1,
+      "Gunshot, gunfire": 1
+    },
+    "avg_confidence": 0.23922349512577057,
+    "time_range": {
+      "start": 0.0,
+      "end": 7.176
+    },
+    "file": "11.mp3",
+    "duration": 7.176
+  },
+  "detections": [
+    {
+      "window_id": 0,
+      "label": "Explosion",
+      "confidence": 0.26383572816848755,
+      "start_time": 0.0,
+      "end_time": 7.176,
+      "window_center": 3.588,
+      "category": "gunshots",
+      "duration": 7.176,
+      "event_id": 1
+    },
+    {
+      "window_id": 0,
+      "label": "Gunshot, gunfire",
+      "confidence": 0.2146112620830536,
+      "start_time": 0.0,
+      "end_time": 7.176,
+      "window_center": 3.588,
+      "category": "gunshots",
+      "duration": 7.176,
+      "event_id": 2
+    }
+  ]
+}
