@@ -6,7 +6,7 @@ numpy
 scipy
 openai-whisper
 argostranslate
-TTS
+# TTS
 # Pre-trained Models
 transformers
 timm

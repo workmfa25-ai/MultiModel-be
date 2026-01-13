@@ -164,7 +164,8 @@ async def diagnose_yamnet(
         logger.exception("Diagnostic failed")
         raise HTTPException(status_code=500, detail=str(e))
 
-FFMPEG_PATH = r"C:\Users\caio\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-6.1-full_build\bin"  # <-- adjust if needed
+# FFMPEG_PATH = r"C:\Users\caio\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-6.1-full_build\bin"  # <-- adjust if needed
+FFMPEG_PATH = r"C:\Users\sakshi\ffmpeg-6.1-full_build\ffmpeg-6.1-full_build\bin"  # <-- adjust if needed
 
 
 if FFMPEG_PATH not in os.environ["PATH"]:
